@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rich Content on Hugo Profile</title>
+    <link>http://localhost:1313/tags/rich-content/</link>
+    <description>Recent content in Rich Content on Hugo Profile</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Apr 2021 19:53:33 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/rich-content/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rich Content</title>
+      <link>http://localhost:1313/blogs/rich-content/</link>
+      <pubDate>Sat, 03 Apr 2021 19:53:33 +0530</pubDate>
+      <guid>http://localhost:1313/blogs/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#embedded&#34;&gt;Embedded Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/privacy/#configuration&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;&#xA;&lt;p&gt;These shortcodes are not Hugo built-ins, but are provided by the theme.&lt;/p&gt;&#xA;&lt;h3 id=&#34;responsive-images-with-cloudinary&#34;&gt;Responsive Images with Cloudinary&lt;/h3&gt;&#xA;&lt;p&gt;You can learn more about this &lt;a href=&#34;https://cloudinary.com/documentation/responsive_images&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Set the &lt;code&gt;cloudinary_cloud_name&lt;/code&gt; parameter in your site config to use this shortcode.&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{&amp;lt; dynamic-img src=&amp;#34;/my/image/on/cloudinary&amp;#34; title=&amp;#34;A title for the image&amp;#34; &amp;gt;}}&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Note that you do not include the file extension (e.g. &lt;code&gt;.png&lt;/code&gt;) in the &lt;code&gt;src&lt;/code&gt; parameter, as the shortcode will automatically determine the best quality and format for the user&amp;rsquo;s device.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
