@@ -618,7 +618,8 @@ params:
           - name: "Field Officer"
             date: "July 2025 - present"
             content: "I am currently working as a Field Officer at the Institute of Himalayan Risk Reduction (IHRR) in Nepal. I am currently working on a project focused on strengthening early warning systems and improving climate resilience to support communities in managing disaster risks effectively."
-             
+      
+
             featuredItems:
               fontAwesomeIcons:
                 - icon: fa-brands fa-react
