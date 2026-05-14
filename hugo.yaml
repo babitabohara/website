@@ -566,7 +566,7 @@ params:
     title: "Babita."
     subtitle: "I am Agricultural Engineer."
     content: "Agricultural Engineering graduate from Tribhuvan University with hands-on experience in Disaster Risk Reduction (DRR), Early Warning Systems (EWS), GIS, and climate-related fieldwork."
-    image: /images/hero.svg
+    image: /images/hero.png
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -590,7 +590,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.png"
+    image: "/images/me.jpeg"
     content: |-
      Agricultural Engineering graduate from Tribhuvan University with hands-on experience in Disaster Risk Reduction (DRR), Early Warning Systems (EWS), GIS, and climate-related fieldwork."
     
