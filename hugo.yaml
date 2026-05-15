@@ -617,7 +617,12 @@ params:
         jobs:
           - name: "Field Officer"
             date: "July 2025 - present"
-            content: "I am currently working as a Field Officer at the Institute of Himalayan Risk Reduction (IHRR) in Nepal. I am currently working on a project focused on strengthening early warning systems and improving climate resilience to support communities in managing disaster risks effectively."
+            content: "I am currently working as a Field Officer at the Institute of Himalayan Risk Reduction (IHRR) in Nepal. I am currently working on a project focused on strengthening early warning systems and improving climate resilience to support communities in managing disaster risks effectively.
+              - Managed and analyzed data related to Early Warning Systems (EWS), climate risks, and disaster events using GIS and 
+                visualization tools.
+              - Developed GIS maps and performed watershed and land use analysis
+              - Processed and analyzed environmental data using Python and digital tools
+              
       
 
             featuredItems:
