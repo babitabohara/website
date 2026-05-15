@@ -613,7 +613,7 @@ params:
     # title: "Custom Name"
     items:
       - company: "IHRR"
-        companyUrl: "https://example.com"
+        companyUrl: "https://ihrr.org.np/"
         jobs:
           - name: "Field Officer"
             date: "July 2025 - present"
@@ -644,7 +644,7 @@ params:
             #content: "I worked as a software developer. I worked on a project that will be used to help people find the best way to get around the city."
 
       - company: "S4W-Nepal"
-        companyUrl: "https://example.com"
+        companyUrl: "https://s4w-nepal.smartphones4water.org/"
         jobs:
           - name: "Research Intern"
             date: "Jan 2025 - Feb 2025"
